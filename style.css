@@ -1,0 +1,161 @@
+header {
+    background-color: black;
+    color: white;    
+}
+
+main {
+    background-color: red;
+    color: white;    
+}
+
+footer {
+    background-color: orange;
+    color: darkblue;
+    font-size: 20px;
+    position: fixed;
+    top: -150px;
+    right: 2px;
+    margin-top: 350px;
+    margin-bottom: 100px;
+    width: 119px;
+    height: 1000px;
+    padding: 5px;
+    border-radius: 15px;    
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: wheat;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+
+}
+
+
+article {
+    opacity: 0;
+}
+
+
+
+footer {
+    background: #AC13A6;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.one {
+    opacity: 1;
+}
+
+.one:hover {
+    opacity: 1;
+}
+
+
+.one:visited {
+    opacity: 1;
+}
+
+.two{    
+    opacity: 1;
+}
+
+.two:hover {
+    opacity: 1;
+}
+
+
+.two:visited {
+    opacity: 1;
+}
+
+.the{
+    opacity: 1;
+}
+
+.the:hover {
+    opacity: 1;
+}
+
+
+.the:visited {
+    opacity: 1;
+}
+
+
+.fo{
+    opacity: 1;
+}
+
+.fo:hover {
+    opacity: 1;
+}
+
+
+.fo:visited {
+    opacity: 1;
+}
+
+
+
+.fove:hover {
+    opacity: 1;
+}
+
+.six:hover {
+    opacity: 1;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
